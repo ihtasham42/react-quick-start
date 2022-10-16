@@ -1,3 +1,7 @@
+# React Quick Start
+
+This project builds on top of Create React App to quickly bootstrap your application with essential features.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
